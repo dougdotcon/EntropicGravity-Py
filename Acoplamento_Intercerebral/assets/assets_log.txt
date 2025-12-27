@@ -1,0 +1,14 @@
+=== LOG DE EXTRAÇÃO DE ASSETS (IMAGENS E TABELAS) ===
+
+[IMAGEM] Página 1: Salva como page1_img1.png
+[IMAGEM] Página 4: Salva como page4_img1.jpeg
+[IMAGEM] Página 4: Salva como page4_img2.jpeg
+[IMAGEM] Página 5: Salva como page5_img1.jpeg
+[IMAGEM] Página 7: Salva como page7_img1.jpeg
+[IMAGEM] Página 8: Salva como page8_img1.jpeg
+[IMAGEM] Página 9: Salva como page9_img1.jpeg
+[IMAGEM] Página 10: Salva como page10_img1.jpeg
+[IMAGEM] Página 10: Salva como page10_img2.jpeg
+[IMAGEM] Página 11: Salva como page11_img1.jpeg
+
+=== FIM DO LOG ===
