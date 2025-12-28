@@ -61,7 +61,7 @@ Detailed audit scripts and reports are available in: `Entropy/Entropic_Gravity/V
 
 Watch the interactive 3D simulation of the thermodynamic architecture in action:
 
-https://github.com/user-attachments/assets/threejs.mp4
+https://github.com/dougdotcon/Arquitetura_Termodinamica_Emergencia/assets/threejs.mp4
 
 **[Try the Interactive Simulator](https://the-reactive-vaccun.vercel.app/)**
 
