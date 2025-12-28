@@ -11,3 +11,5 @@ $$ g = \frac{g_N + \sqrt{g_N^2 + 4 g_N a_0}}{2} $$
 As seen in `interpolation_analysis.png`, the Green Curve (Smooth) creates a much more physical transition than the Red Curve (Naive). It avoids the sharp corner at the transition radius.
 
 **Verdict:** The code must be updated to use the Smooth function to withstand peer review.
+
+![Derivation Analysis](interpolation_analysis.png)

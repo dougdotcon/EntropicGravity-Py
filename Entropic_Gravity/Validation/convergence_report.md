@@ -9,3 +9,4 @@ We applied Richardson Extrapolation logic, refining the time step `dt` by factor
 - Convergence Ratio: `1.98`
 
 ✅ **CONVERGENCE CONFIRMED.** The solver exhibits Order 1 convergence, consistent with Semi-Implicit Euler. Observed physics (flat rotation) are robust against time-step refinement.
+![Convergence Analysis](convergence_analysis.png)

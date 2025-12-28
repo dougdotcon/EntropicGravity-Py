@@ -27,6 +27,24 @@ The codebase has undergone a rigorous "Elite Physicist" audit to verify the **Th
 ### 📂 Validation Suite
 Detailed audit scripts and reports are available in: `Entropy/Entropic_Gravity/Validation/`
 
+### 📂 Visual Evidence Gallery
+
+#### 1. Galactic Dynamics & Stability
+| | |
+|:---:|:---:|
+| **Energy Conservation**<br>![Energy](Entropic_Gravity/Validation/results/energy_conservation.png) | **Interpolation Law**<br>![Derivation](Entropic_Gravity/Validation/interpolation_analysis.png) |
+| **Disk Stability (Toomre Q)**<br>![Stability](Entropic_Gravity/Validation/stability_analysis.png) | **Convergence Test**<br>![Convergence](Entropic_Gravity/Validation/convergence_analysis.png) |
+
+#### 2. Advanced Phenomena (Lensing & Cosmology)
+| | |
+|:---:|:---:|
+| **Weak Lensing Profile**<br>![Lensing](Entropic_Gravity/Validation/06_Gravitational_Lensing/lensing_analysis.png) | **Boundary Effect (SEP)**<br>![Boundary](Entropic_Gravity/Validation/boundary_analysis.png) |
+
+#### 3. The "Boss Battle" (Cosmology Results)
+| | |
+|:---:|:---:|
+| ❌ **Naive Model (Failed)**<br>![Naive](Entropic_Gravity/Validation/07_Cosmology/cosmology_analysis.png) | ✅ **Reactive Model (Success)**<br>![Reactive](Entropic_Gravity/Validation/07_Cosmology/cosmology_reactive_result.png) |
+
 ---
 
 ## 🔬 Research Modules

@@ -8,3 +8,5 @@ The simulation confirms that the Entropic correction applies to the relativistic
 
 ## Conclusion
 ✅ **Lensing Anomaly Resolved.** Entropic Gravity successfully reproduces the 'Dark Matter Lensing Signal' using only Baryonic matter. The theory is consistent with Weak Lensing observations.
+
+![Lensing Analysis](lensing_analysis.png)
