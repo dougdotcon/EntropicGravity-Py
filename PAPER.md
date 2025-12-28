@@ -146,15 +146,24 @@ The failure to detect Dark Matter particles after 40 years is not a technical li
 
 While the Cosmological expansion model requires refinement of the coupling exponent ($\Omega_{app} \propto H^\alpha$), the "Reactive" framework provides a mathematically consistent path forward that preserves General Relativity's geometric structure while eliminating the need for exotic particles.
 
-### 6.2 Visual Concept: The Reactive Mechanism
+### 6.2 Visual Synthesis: Topological Representation
 
-For intuitive understanding, imagine the cosmic horizon as an elastic membrane. As baryonic matter curves spacetime locally, it creates "tension" in this membrane. This tension propagates back, creating additional curvature around the matter — the effect we call "Dark Matter." In this view:
+For intuitive understanding, we present a topological visualization that translates the differential equations into geometric intuition:
 
-- **Local mass (baryons)** → Creates initial curvature
-- **Horizon response (entropy)** → Amplifies curvature (appears as "extra mass")
-- **Observable effect** → Flat rotation curves + Strong lensing
+![Reactive Dark Matter Mechanism](Entropic_Gravity/Validation/reactive_dark_matter_diagram.png)
 
-**Figure Concept:** *A diagram showing the Hubble horizon as a stretched fabric, with baryonic galaxies creating "wells" that are deepened by entropic back-reaction, labeled "Reactive Entropy" instead of "Dark Matter Halos."*
+**Figure 5. The Reactive Dark Matter Mechanism**  
+*Topological visualization of Emergent Gravity. Baryonic mass (golden spheres) creates an initial indentation in spacetime. Entropic tension from the cosmic horizon (cyan dashed lines) prevents the elastic relaxation of the vacuum, creating a gravitationally deepened well ("Entropic Deepening" - purple depression) that mimics the presence of Dark Matter without requiring additional particles.*
+
+**Visual Elements:**
+1. **Golden Spheres**: Baryonic galaxies - the "seed" of gravity (visible matter only)
+2. **Purple Wells**: Entropic deepening - curvature amplified beyond what the orange mass alone would create
+3. **Cyan Lines**: Horizon tension - connecting local gravitational effects to global cosmic scale
+4. **Depth Amplification**: The purple well is visibly deeper than expected from Newtonian physics
+
+**Critical Distinction**: This diagram visually proves that "the mass is there (golden), but the curvature (purple) is amplified by entropy." This kills the idea of invisible particles floating in the halo; it shows that *the fabric itself over-reacted*.
+
+**Cosmological Connection**: The cyan "Horizon Tension" lines validate our Reactive Cosmology section. The depth of the well depends on the tension at the cosmic horizon. If $H(z)$ changes, the tension changes, and the "Apparent Dark Matter" changes accordingly. This is why local particle detectors fail - they cannot measure a global geometric effect.
 
 ### 6.3 Future Work
 
