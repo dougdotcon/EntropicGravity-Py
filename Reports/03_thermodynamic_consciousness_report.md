@@ -65,7 +65,7 @@ If our thesis is correct, we will see a sharp sigmoid curve indicating the "awak
 The simulation of 200 oscillators revealed a clear phase transition.
 
 ### 4.1 Phase Transition Graph (Order Parameter vs Coupling)
-![Phase Transition](../Acoplamento_Intercerebral/results/consciousness_phase_transition.png)
+![Phase Transition](../Interbrain_Coupling/results/consciousness_phase_transition.png)
 
 ### 4.2 Data Analysis
 We observed three distinct regimes:

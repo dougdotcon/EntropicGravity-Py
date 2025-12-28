@@ -14,16 +14,16 @@ Este repositório contém a implementação computacional e a fundamentação te
 
 O projeto divide-se em três escalas de emergência, cada uma em seu próprio subdiretório:
 
-### 1. Escala Cósmica: `Gravidade_Entropica/`
+### 1. Escala Cósmica: `Entropic_Gravity/`
 Simulações astrofísicas testando a hipótese da gravidade emergente.
 *   **Foco:** Rotação de Galáxias, Cosmologia sem Matéria Escura.
 *   **Códigos Chave:** `src/rotacao_galactica.py`, `src/simulacao_galaxia.py`.
 
-### 2. Escala Macro-Social: `Horizontes_de_Eventos_Sociais/`
+### 2. Escala Macro-Social: `Social_Event_Horizons/`
 Modelagem de sociedades como sistemas de spin (Modelo de Ising) sob influência de campos de informação.
 *   **Foco:** Histerese política, polarização, totalitarismo como estado de baixa entropia.
 
-### 3. Escala Micro-Consciente: `Acoplamento_Intercerebral/`
+### 3. Escala Micro-Consciente: `Interbrain_Coupling/`
 Neurociência computacional focada em sincronização de fase.
 *   **Foco:** Consciência como transição de fase em osciladores acoplados (Kuramoto).
 
@@ -36,7 +36,7 @@ Recomenda-se ambiente Python 3.9+ com suporte a computação científica.
 pip install numpy scipy matplotlib astropy jupyter
 
 # Executar a validação da curva de rotação galáctica
-cd Gravidade_Entropica/src
+cd Entropic_Gravity/src
 python rotacao_galactica.py
 ```
 

@@ -59,7 +59,7 @@ Where the $1/r$ term dominates at the edges of galaxies.
 
 We do not need galaxy-sized particle accelerators. We need **High-Precision Numerical Simulations**.
 
-### Experiment 1: Entropic Gravitational Cartography (Completed in `src/rotacao_galactica.py`)
+### Experiment 1: Entropic Gravitational Cartography (Completed in `Entropic_Gravity/src/rotacao_galactica.py`)
 *   **Hypothesis:** Rotation curves of spiral galaxies follow the distribution of baryonic (visible) matter ONLY if we apply the entropic correction.
 *   **Method:** N-Body Simulation comparing `Newtonian Force` vs `Verlinde Force`.
 *   **Success Metric:** Fit to observational data (SPARC database) without free dark matter parameters (Halo models).

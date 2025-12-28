@@ -68,7 +68,7 @@ The script `simulacao_social.py` will generate the hysteresis curve and heatmaps
 The Monte Carlo simulation was executed for $T=1.8$ (below the critical temperature $T_c \approx 2.269$).
 
 ### 4.1 Social Hysteresis (Collective Memory)
-![Social Hysteresis](../Horizontes_de_Eventos_Sociais/results/social_hysteresis_T1.8.png)
+![Social Hysteresis](../Social_Event_Horizons/results/social_hysteresis_T1.8.png)
 
 **Interpretation:**
 The curve forms an open cycle ("loop").
@@ -77,6 +77,6 @@ The curve forms an open cycle ("loop").
 3.  **Physical Conclusion:** Public opinion has "inertia". Once polarized, society does not return to the neutral state just by removing the cause of polarization. An active and intense opposing force is needed to reverse the state.
 
 ### 4.2 Snapshot of Polarized Society
-![Network Snapshot](../Horizontes_de_Eventos_Sociais/results/social_snapshot_T1.8.png)
+![Network Snapshot](../Social_Event_Horizons/results/social_snapshot_T1.8.png)
 
 Homogeneous opinion clusters form spontaneously (social bubbles).

@@ -57,7 +57,7 @@ This proves we can mathematically measure "empathy" as a physical channel of bit
 We generated two time series $X$ (Source) and $Y$ (Destination) with directional coupling $X \to Y$.
 
 ### 4.1 Transfer Entropy Graph
-![Transfer Entropy](../Acoplamento_Intercerebral/results/transfer_entropy_result.png)
+![Transfer Entropy](../Interbrain_Coupling/results/transfer_entropy_result.png)
 
 ### 4.2 Quantitative Interpretation
 The numerical results obtained were:

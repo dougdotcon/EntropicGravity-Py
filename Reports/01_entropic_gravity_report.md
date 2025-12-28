@@ -78,11 +78,11 @@ Next step: Execution of script `simulacao_galaxia.py`.
 The N-Body computational simulation was successfully executed. Below we present the comparative results.
 
 ### 4.1 Orbital Velocity vs Radial Distance Graph
-![Rotation Curve](../Gravidade_Entropica/results/rotation_curve_comparison.png)
+![Rotation Curve](../Entropic_Gravity/results/rotation_curve_comparison.png)
 
 ### 4.2 Physical Interpretation
 1. **Newtonian Regime (Black):** We observe predictable Keplerian decay ($v \propto r^{-1/2}$). This fails to represent real galaxies, which have flat curves.
 2. **Entropic Regime (Red):** With the Verlinde/MOND correction ($a_0 = 10^{-3}$), the orbital velocity at the outer edges stabilizes (flat rotation curve).
 3. **Conclusion:** The effect is reproduced **without adding extra mass** (Dark Matter). The modification in the law of gravity at low accelerations is sufficient to sustain the observed velocities.
 
-The source code of the simulation is available at `Gravidade_Entropica/src/simulacao_galaxia.py`.
+The source code of the simulation is available at `Entropic_Gravity/src/simulacao_galaxia.py`.
