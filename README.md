@@ -22,7 +22,7 @@ The codebase has undergone a rigorous "Elite Physicist" audit to verify the **Th
 | **4. Stability** | Toomre $Q$ Parameter | ✅ PASS | Entropic potential stabilizes galactic disks ($Q > 1$) without Dark Matter halos. |
 | **5. Convergence** | Richardson Extrapolation | ✅ PASS | Order 1 convergence confirmed; physics is not numerical noise. |
 | **6. Lensing** | Weak Lensing Profile | ✅ PASS | **Major Breakthrough:** Entropic potential mimics Isothermal Halo lensing signal. |
-| **7. Cosmology** | Expansion History $H(z)$ | 🔄 PIVOT | Naive baryon-only model failed. Implementing **Reactive Emergent Gravity** solver. |
+| **7. Cosmology** | Expansion History $H(z)$ | ⚠️ PARTIAL SUCCESS | Reactive Model ($\Omega \propto H$) bridges the gap; theory viable but requires tuning. |
 
 ### 📂 Validation Suite
 Detailed audit scripts and reports are available in: `Entropy/Entropic_Gravity/Validation/`

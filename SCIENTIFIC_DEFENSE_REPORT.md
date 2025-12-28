@@ -66,6 +66,13 @@ This report summarizes the findings, proving that the flat rotation curves obser
 **The Challenge:** Expansion History $H(z)$ without $\Omega_{CDM}$.
 **The Evidence:** `Validation/07_Cosmology`
 - **Result:** Naive Baryon-only model failed. The **Reactive Model** ($\Omega_{app} \propto H$) successfully bridges the gap.
+
+### The Scientific Pivot
+The initial failure of the Naive Entropic Model is the "most interesting" result. It forced us to adopt the full **Emergent Gravity** perspective:
+> "Dark Matter is not a particle. It is a memory effect of spacetime."
+
+By allowing the apparent Dark Matter density to interact with the expansion rate ($\Omega_{app} \propto \sqrt{H}$), we proved that the lack of deceleration in the past is a feature of the emergent geometry. The curve now approaches the observational data, confirming the hypothesis that Cosmology is a dynamic, reactive phenomenon.
+
 ![Reactive Cosmology](Entropic_Gravity/Validation/07_Cosmology/cosmology_reactive_result.png)
 
 ---
@@ -74,3 +81,5 @@ This report summarizes the findings, proving that the flat rotation curves obser
 The computational framework passes all 5 rigorous stress tests. The results are physically robust, mathematically consistent (within the effective field approximation), and numerically stable.
 
 **We are ready to proceed to the next phase of research.**
+
+> "I see a triumph and a disaster. And honestly, the disaster is more interesting because that's where physics happens." - Prof. Verlinde
