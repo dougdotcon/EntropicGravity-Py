@@ -27,7 +27,7 @@ from numba import njit
 N = 200                 # Number of oscillators
 DT = 0.05               # Time step
 STEPS = 5000            # Integration steps per simulation
-OUTPUT_DIR = r"C:\Users\Douglas\Desktop\Entropy\Acoplamento_Intercerebral\results"
+OUTPUT_DIR = "results"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
@@ -50,12 +50,16 @@ def kuramoto_step(theta, omega, K, D, dt):
         for j in range(N):
             interaction += np.sin(theta[j] - theta[i])
         
-        # Stochastic term: sqrt(2D dt) * Gaussian
+        # Stochastic term: sqrt(2D dt) * Gaussian (Wiener increment dW)
+        # FORCE TERM: dTheta = (omega + interaction) * dt + sigma * dW
+        # We compute drift and add noise separately to avoid multiplying noise by dt again
+        
+        drift = omega[i] + (K / N) * interaction
         noise = np.sqrt(2 * D * dt) * np.random.randn()
         
-        d_theta[i] = omega[i] + (K / N) * interaction + noise
+        d_theta[i] = drift * dt + noise
         
-    return theta + d_theta * dt
+    return theta + d_theta
 
 @njit
 def calc_order_parameter(theta):

@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from tqdm import tqdm
 
 # CONFIGURAÇÃO DA MATRIZ SOCIAL
-N = 20  # Tamanho otimizado para simulações rápidas (20x20 indivíduos)
+N = 50  # Tamanho otimizado para simulações estatísticas (50x50 indivíduos)
 J = 1.0  # Força da interação entre vizinhos (Influência social natural)
 
 def inicializar_spins(N):

@@ -15,7 +15,7 @@ from typing import Tuple, List, Optional
 G_NEWTON = 1.0           # Constante gravitacional newtoniana
 M_BURACO_NEGRO = 1000.0  # Massa no centro da galáxia
 ESCALA_VERLINDE = 20.0   # Distância de transição Verlinde
-A_0 = 0.2               # Aceleração mínima do universo (constante de Verlinde)
+A_0 = 2.0               # Aceleração mínima do universo (constante de Verlinde) - AUMENTADO PARA DEMONSTRAÇÃO VISUAL
 
 def forca_newtoniana(r: float) -> float:
     """
@@ -336,8 +336,8 @@ def demonstracao_completa(raio_teste: float = 50.0,
     plt.tight_layout()
 
     if salvar_figuras:
-        plt.savefig('images/rotacao_galactica_completa.png', dpi=300, bbox_inches='tight')
-        print("\n💾 Figuras salvas em 'images/rotacao_galactica_completa.png'")
+        plt.savefig('results/rotation_curve_comparison.png', dpi=300, bbox_inches='tight')
+        print("\n💾 Figuras salvas em 'results/rotation_curve_comparison.png'")
 
     plt.show()
 
