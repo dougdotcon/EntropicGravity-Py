@@ -44,21 +44,7 @@ Our simulation implements a 1D model where:
 - **Entropy Gradient**: Creates a "force" directed towards regions of higher information
 - **Temperature**: Controls thermal agitation (quantum fluctuations)
 
-## Philosophical Implications
 
-### Consciousness and Anti-Entropy
-
-If gravity is an entropy gradient, then:
-
-- **Gravity** = Tendency towards maximum disorder (heat death)
-- **Consciousness** = Local reduction of entropy (order, information)
-- **Life** = Resistance to universal entropic attraction
-
-### Determinism vs. Free Will
-
-- The universe is deterministic at the entropic level
-- But quantum fluctuations allow for statistical "choices"
-- Consciousness can influence these probabilities
 
 ## Extensions of the Theory
 

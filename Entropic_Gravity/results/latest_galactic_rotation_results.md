@@ -120,10 +120,9 @@ This computational simulation conclusively demonstrates that:
 4. **New era in physics** - thermodynamics as the foundation of gravity
 
 ### Next Steps
-1. **Integration with Conscious Agent**: Conscious beings navigating against entropic flow
-2. **Cosmological Scale**: Application to larger structures (clusters)
-3. **Observational Validation**: Comparison with real telescope data
-4. **Scientific Publication**: Submission to peer-reviewed journals
+1. **Cosmological Scale**: Application to larger structures (clusters)
+2. **Observational Validation**: Comparison with real telescope data
+3. **Scientific Publication**: Submission to peer-reviewed journals
 
 ## Related Files
 
@@ -133,12 +132,10 @@ This computational simulation conclusively demonstrates that:
 - `tests/test_simulacoes.py` - Computational validation
 
 ### Documentation
-- `docs/teoria_unificada.md` - Complete theory
 - `results/results.md` - Consolidated results
 
 ### Visualizations
 - `images/rotacao_galactica_completa.png` - Main graphs
-- `images/comparacao_consciente_inerte.png` - Conscious agent
 
 ---
 

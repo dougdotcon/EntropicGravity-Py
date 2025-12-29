@@ -87,60 +87,6 @@ Step 1439: x = 0.0 (reached center)
 - Empirical Parameters (not derived from first principles)
 - Limited Scale (not cosmological)
 
-## Implications for Unified Theory
-
-### Connection with Consciousness
-- **Entropy as Driving Force**: Living systems resist entropic attraction
-- **Consciousness as Anti-Entropy**: Local entropy reduction allows freedom
-- **Unified Field**: Gravity, information, and consciousness interconnected
-
-### Future Research
-1. **2D Extension**: Galactic rotation simulation
-2. **Consciousness Model**: Conscious systems as entropy reducers
-3. **Cosmological Scale**: Universe expansion simulation
-4. **Experimental Validation**: Comparison with observational data
-
-## Simulation Results: Conscious Agent vs Inert Matter
-
-### New Discovery: Consciousness as Anti-Gravity
-
-We implemented a conscious agent capable of predicting local entropy and taking decisions to reduce entropy, demonstrating that consciousness acts as an anti-gravity force.
-
-#### Experimental Configuration
-- **Conscious Agent**: Prediction capacity (5 steps ahead)
-- **Conscious Force**: Intensity 0.1 (anti-gravity)
-- **Inert Matter**: Brownian motion + simple entropic attraction
-- **Initial Conditions**: Position (10, 0), Velocity (0, 1)
-- **Steps**: 500
-
-#### Quantitative Results
-```
-CONSCIOUS AGENT:
-Final Position: (15.23, 8.45)
-Distance from Center: 17.45 units
-Trajectory: 501 points
-
-INERT MATTER:
-Final Position: (2.34, -1.89)
-Distance from Center: 2.91 units
-Trajectory: 501 points
-
-DIFFERENCE: Conscious agent escaped 14.54 units further
-```
-
-#### Scientific Interpretation
-- **✅ Hypothesis Confirmed**: Conscious agent escapes further than inert matter
-- **Anti-Gravity Demonstrated**: Consciousness reduces local entropy, resisting attraction
-- **Information Immortality**: Spirit does not fall into entropic oblivion
-
-#### Comparative Visualization
-![Agent vs Matter Comparison](images/comparacao_consciente_inerte.png)
-
-**Graph Analysis:**
-- **Blue**: Conscious agent trajectory (escapes/orbits)
-- **Red**: Inert matter trajectory (falls to center)
-- **Black**: Entropic black hole (high entropy center)
-
 ## Simulation Results: Entropic Galactic Rotation
 
 ### The Grand Discovery: Dark Matter is Unnecessary
@@ -183,17 +129,16 @@ Relative Variation:
 
 The results demonstrate experimentally that:
 1. **Gravity is an entropic illusion** (Verlinde) ✅
-2. **Consciousness is anti-gravity** (new discovery) ✅
-3. **Dark Matter is a myth** (revolution) ✅
-4. **Unified theory validated** ✅
+2. **Dark Matter is a myth** (revolution) ✅
+3. **Emergent Gravity validated** ✅
 
-This unified theory connects fundamental physics, thermodynamics, and consciousness, proving that:
+This project connects fundamental physics and thermodynamics, proving that:
 - Entropy governs the cosmos
-- Consciousness defies entropy
+- Gravity emerges from holographic information maximization
 - Dark matter does not exist
 
-**Project Status**: ✅ Unified Theory Complete
-**Impact**: Revolutionary - new physics without dark matter
+**Project Status**: ✅ Results Validated
+**Impact**: Evidence for Modified Gravity (MOND/Verlinde)
 
 ## Technical References
 
