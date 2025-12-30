@@ -1,7 +1,8 @@
 # Information as Geometry: A Computational Verification of Entropic Gravity from Galactic Scales to Cosmic Expansion
 
-**Author:** Douglas 
-**Affiliation:** Institute for Advanced Research in Complex Systems  
+**Author:** Douglas H. M. Fulber
+**Affiliation:** FEDERAL UNIVERSITY RIO DE JANEIRO  
+**DOI:** https://doi.org/10.5281/zenodo.18078771
 **Date:** December 2025
 
 ---
